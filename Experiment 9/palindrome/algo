@@ -1,0 +1,15 @@
+Start
+
+Read string st
+
+Find length n
+
+Set flag = True
+
+Compare characters from start and end
+
+If mismatch → flag = False
+
+If flag true → Palindrome else Not Palindrome
+
+Stop
