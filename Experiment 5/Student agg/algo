@@ -1,0 +1,12 @@
+Start
+Read four marks: m1, m2, m3, m4
+Calculate total marks:-   total = m1 + m2 + m3 + m4
+Calculate aggregate percentage    percentage = total / 4
+If percentage > 75   Print "Distinction"
+Else if percentage >= 60 and percentage < 75    Print "First Division"
+Else if percentage >= 50 and percentage < 60    Print "Second Division"
+Else if percentage >= 40 and percentage < 50    Print "Third Division"
+Else    Print "Fail"
+Print total marks
+Print aggregate percentage
+Stop.
