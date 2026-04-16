@@ -1,0 +1,13 @@
+Start.
+
+Read the coefficients a, b, and c.
+
+Calculate the discriminant using:- 𝐷=𝑏^2−4ac.
+
+If D > 0 Compute:- 𝑥1=(−𝑏+root𝐷)/2a and 𝑥2=(−𝑏−root𝐷)/2𝑎 Display two real and distinct roots.
+
+Else if D = 0 Compute:- 𝑥=−𝑏/2𝑎 Display equal real roots.
+
+Else (D < 0) Compute:- Real part = −𝑏/2𝑎 Imaginary part = root(-𝐷)/2a Display complex roots.
+
+Stop.
