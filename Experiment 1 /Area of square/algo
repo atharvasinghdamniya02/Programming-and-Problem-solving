@@ -1,0 +1,6 @@
+Start
+Read the side length s of the square
+Calculate the area using the formula:
+Area=𝑠×𝑠
+Display the area
+Stop
