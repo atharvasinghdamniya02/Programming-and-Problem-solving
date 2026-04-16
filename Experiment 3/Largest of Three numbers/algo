@@ -1,0 +1,6 @@
+Start.
+Input three integers a, b, and c.
+If a ≥ b and a ≥ c → Print a as the largest number.
+Else if b ≥ a and b ≥ c → Print b as the largest number.
+Else → Print c as the largest number.
+Stop
