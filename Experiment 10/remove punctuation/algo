@@ -1,0 +1,13 @@
+1.Start
+
+2.Read string st
+
+3.Set new_str = ""
+
+4.Traverse each character
+
+5.If character is alphanumeric or space → add to new_str
+
+6.Print new_str
+
+7.Stop
