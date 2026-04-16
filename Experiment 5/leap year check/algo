@@ -1,0 +1,7 @@
+Start.
+Read the year from the user
+If the year is divisible by 400   → Print "Leap Year"
+Else if the year is divisible by 100   → Print "Not a Leap Year"
+Else if the year is divisible by 4   → Print "Leap Year"
+Else   → Print "Not a Leap Year"
+Stop
