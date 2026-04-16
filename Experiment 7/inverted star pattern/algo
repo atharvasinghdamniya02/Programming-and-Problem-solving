@@ -1,0 +1,6 @@
+Start
+Input value n
+While n > 0:
+Print "*" repeated n times
+Decrease n by 1
+Stop
