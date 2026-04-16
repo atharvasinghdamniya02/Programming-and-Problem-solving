@@ -1,0 +1,11 @@
+Start.
+Declare two sets A and B
+Read elements of Set A from the user
+Read elements of Set B from the user
+Perform Union operation Union = A ∪ B.
+Perform Intersection operation Intersection = A ∩ B.
+Perform Difference operations
+Difference1 = A − B.
+Display Set A and Set B
+Display Union, Intersection, and Difference results
+Stop
