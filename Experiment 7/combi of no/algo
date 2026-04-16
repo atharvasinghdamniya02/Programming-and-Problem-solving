@@ -1,0 +1,9 @@
+Start
+Input three values a, b, c.
+Store them in a list: digits = [a, b, c]
+Initialize loop variable i from 0 to 2.
+Inside that, initialize loop variable j from 0 to 2.
+Inside that, initialize loop variable k from 0 to 2.
+Check condition: if (i ≠ j AND i ≠ k AND j ≠ k) If true → Print digits[i] + digits[j] + digits[k]
+Repeat until all loops finish.
+Stop
