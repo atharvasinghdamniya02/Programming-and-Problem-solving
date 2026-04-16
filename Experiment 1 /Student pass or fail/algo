@@ -1,0 +1,5 @@
+Start.
+Read the marks obtained by the student.
+If marks > 40 → Display “Pass”.
+Else → Display “Fail”.
+Stop.
