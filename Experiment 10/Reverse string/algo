@@ -1,0 +1,19 @@
+1.Start
+
+2.Define function to reverse string
+
+3.Initialize empty string
+
+4.Traverse string in reverse order
+
+5.Append characters to new string
+
+6.Return reversed string
+
+7.Input string
+
+8.Call function
+
+9.Print original and reversed string
+
+10.Stop
