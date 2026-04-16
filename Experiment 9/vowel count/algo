@@ -1,0 +1,13 @@
+Start
+
+Read string st
+
+Set count = 0
+
+Traverse each character of string
+
+If character is vowel → count = count + 1
+
+Print count
+
+Stop
