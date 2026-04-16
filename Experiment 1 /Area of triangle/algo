@@ -1,0 +1,5 @@
+Start.
+Read the base b and height h of the triangle.
+Calculate the area using the formula: Area=0.5×𝑏×ℎ.
+Display the area.
+Stop.
