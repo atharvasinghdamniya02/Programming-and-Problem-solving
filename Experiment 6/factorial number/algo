@@ -1,0 +1,15 @@
+Start.
+
+Read a number n from the user.
+
+If n < 0    → Print "Factorial not defined for negative numbers"    → Stop
+
+Set fact = 1
+
+Set i = 1
+
+Repeat while i ≤ n    → fact = fact × i    → i = i + 1
+
+Print "Factorial of n is fact"
+
+Stop.
