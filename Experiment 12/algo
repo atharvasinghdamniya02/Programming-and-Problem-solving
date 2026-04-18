@@ -1,0 +1,15 @@
+Start
+
+Create empty dictionary
+
+Read number of operations
+
+For each operation:
+
+If ADD → insert contact
+
+If REMOVE → delete contact
+
+If DISPLAY → print all contacts (sorted) or "No contacts"
+
+Stop
